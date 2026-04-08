@@ -1,0 +1,10 @@
+{
+  "name": "decorator-ejemplo-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patrón Decorator: café con ingredientes dinámicos",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

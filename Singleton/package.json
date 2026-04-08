@@ -1,0 +1,10 @@
+{
+  "name": "singleton-ejemplo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Singleton DatabaseConnection: varios módulos, una sola conexión",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

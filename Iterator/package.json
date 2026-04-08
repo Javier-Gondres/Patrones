@@ -1,0 +1,10 @@
+{
+  "name": "iterator-ejemplo-playlist",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patron Iterator: recorrer colección sin exponer estructura interna",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

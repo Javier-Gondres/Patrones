@@ -1,0 +1,10 @@
+{
+  "name": "interpreter-ejemplo-expresiones",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patron Interpreter: gramática de expresiones aritméticas simples",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

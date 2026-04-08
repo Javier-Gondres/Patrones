@@ -1,0 +1,10 @@
+{
+  "name": "command-ejemplo-lampara",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patron Command: encapsula solicitudes como objetos",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

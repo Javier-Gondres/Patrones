@@ -1,0 +1,10 @@
+{
+  "name": "memento-ejemplo-editor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patron Memento: guardar y restaurar estado del editor",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

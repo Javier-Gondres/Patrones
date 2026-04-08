@@ -1,0 +1,10 @@
+{
+  "name": "mediator-ejemplo-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Patron Mediator: chat con comunicacion centralizada",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
